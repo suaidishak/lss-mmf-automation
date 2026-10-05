@@ -1,0 +1,4 @@
+﻿mmf_source/
+__pycache__/
+*.pyc
+.env
